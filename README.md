@@ -20,9 +20,4 @@ Now you can rotate the clipping plane using Vector3
 
 1. Inverse: inverse the cross section axis
 1. Flow: cross section distance
-2. Clipping Direction: Direction of the clipping plane
-
-![Screenshot](Screenshot_1.png?raw=true "Screenshot")
-1. Axis: cross section axis
-1. Inverse: inverse the cross section axis
-1. Flow: cross section distance
+1. Clipping Direction: Direction of the clipping plane
