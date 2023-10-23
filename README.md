@@ -15,6 +15,9 @@ The shader is set to render both sides with different color for better visualiza
 ![Screenshot](Screenshot_2.png?raw=true "Screenshot")
 
 Now you can rotate the clipping plane using Vector3
+
+![Screenshot](Screenshot_3.png?raw=true "Screenshot")
+
 1. Inverse: inverse the cross section axis
 1. Flow: cross section distance
 2. Clipping Direction: Direction of the clipping plane
